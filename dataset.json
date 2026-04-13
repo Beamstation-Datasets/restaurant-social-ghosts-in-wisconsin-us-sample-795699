@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Wisconsin, US",
+  "export_job_id": "a9830b11-011f-4ef7-bbdd-416245ded34f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 795699,
+  "location_name": "Wisconsin",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-wisconsin-us-sample-795699",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/795699/beamstation_795699_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 9.68,
+  "sample_records": 9,
+  "sample_sha256": "56d0d1b8814e020b58c44d1ce5abbbc870eabef30f43e4a5a93287f3c0b456f4",
+  "sample_size_bytes": 49211,
+  "total_records": 93,
+  "updated_at": "2026-04-08T07:46:28.779015+00:00"
+}
