@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a9830b11-011f-4ef7-bbdd-416245ded34f",
+  "id_short": 795699,
+  "published_at": "2026-04-13T07:55:18Z",
+  "repo_name": "restaurant-social-ghosts-in-wisconsin-us-sample-795699",
+  "sample_asset_name": "beamstation_795699_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/795699/beamstation_795699_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_records": 9,
+  "sample_sha256": "56d0d1b8814e020b58c44d1ce5abbbc870eabef30f43e4a5a93287f3c0b456f4",
+  "sample_size_bytes": 49211,
+  "total_records": 93
+}
