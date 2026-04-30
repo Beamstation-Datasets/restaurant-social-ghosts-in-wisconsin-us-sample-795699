@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Wisconsin, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `795699` |
 | Location | Wisconsin |
 | Category | Restaurants |
-| Full dataset size | 10 records |
-| Free sample size | 1 records (10.0%) |
-| Last export | 2026-04-22T19:03:47.471791+00:00 |
+| Full dataset size | 86 records |
+| Free sample size | 8 records (9.3%) |
+| Last export | 2026-04-29T18:17:23.918269+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-wisconsin-us-sample-795699/releases/download/sample-latest/beamstation_795699_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
